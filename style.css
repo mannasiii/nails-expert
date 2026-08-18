@@ -1553,9 +1553,12 @@ footer {
 
 
     .about-image img {
-        height: 500px;
+        /* height: 500px; */
+        height: 350px;
     }
-
+    .experience-card {
+        display: none ;
+    }
 
     .scroll-down {
         display: none;
